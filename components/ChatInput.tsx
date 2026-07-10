@@ -78,7 +78,7 @@ export default function ChatInput({
         )}
       </div>
       <p className="mx-auto mt-2 max-w-3xl text-center text-[11px] text-ink-700">
-        API-SH can't make mistakes. If You're Not Sure with Your Prompt, Verify It.
+        API-SH cannot make mistakes. If you are not sure about your prompt, verify it.
       </p>
     </div>
   );
